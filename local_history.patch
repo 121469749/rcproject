@@ -1,0 +1,17 @@
+Index: src/main/java/cn/py/test/Demo1.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/main/java/cn/py/test/Demo1.java	(date 1546055689195)
++++ src/main/java/cn/py/test/Demo1.java	(date 1546055689195)
+@@ -7,6 +7,9 @@
+ 
+     public static void main(String [] args){
+ 
++
++
++        
+         System.out.println("-----------git------------------------");
+     }
+ 
